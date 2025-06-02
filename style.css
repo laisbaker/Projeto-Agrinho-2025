@@ -2,13 +2,13 @@
 
 /* Variáveis */
 :root {
-    --primary-color: #026773;
-    --secondary-color: #3CA6A6;
-    --text-color: #024959;
-    --background-color: #F2E3D5;
-    --button-hover: #012E40;
+    --primary-color: #4f8f07;
+    --secondary-color: #b0ebaa;
+    --text-color: #183f02;
+    --background-color: #5e5a58;
+    --button-hover: #236e2d;
     --font-body: "Chocolate Classical Sans", serif;
-    --font-titulo: "Rakkas", serif;
+    --font-titulo: "heveltica", serif;
 }
 
 /* Reset */
